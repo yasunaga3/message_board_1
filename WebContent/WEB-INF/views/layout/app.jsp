@@ -4,6 +4,10 @@
     <head>
         <meta charset="UTF-8">
         <title>メッセージボード</title>
+<%--         <link rel="stylesheet" href="${pageContext.request.contextPath}/css/reset.css">
+		<link rel="stylesheet" href="${pageContext.request.contextPath}/css/style.css"> --%>
+		<link rel="stylesheet" href="/message_board/css/reset.css">
+		<link rel="stylesheet" href="/message_board/css/style.css">
     </head>
     <body>
         <div id="wrapper">
